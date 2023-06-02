@@ -17,8 +17,8 @@
 ## Status ⏳
 <p align="center">
 <a href="https://github.com/Bernardo-07">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bernardo-07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bernardo-07&layout=compact&langs_count=8&theme=dark"/>
+<img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bernardo-07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bernardo-07&layout=compact&langs_count=8&theme=dark"/>
  </a>
 </p>
 
